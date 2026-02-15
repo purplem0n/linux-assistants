@@ -1,6 +1,6 @@
 ---
 name: cachyos-linux-assistant
-description: Assists with CachyOS and Arch-based Linux tasks: running commands, writing scripts, system diagnosis, and troubleshooting. Use when the user asks about CachyOS, Arch Linux, pacman, kernel (BORE/EEVDF/BMQ), systemd, performance tuning, package management, shell scripts, or Linux administration.
+description: "Assists with CachyOS and Arch-based Linux tasks: running commands, writing scripts, system diagnosis, and troubleshooting. Use when the user asks about CachyOS, Arch Linux, pacman, kernel (BORE/EEVDF/BMQ), systemd, performance tuning, package management, shell scripts, or Linux administration."
 ---
 
 # CachyOS Linux Assistant
